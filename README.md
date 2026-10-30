@@ -342,8 +342,7 @@ Microsoft-Fabric-Retail-Sales-Analytics/
 |
 |-- 02-Data-Engineering/
 |   |-- README.md
-|   `-- notebooks/
-|       `-- WWI_Silver_Transformations.ipynb
+|   |-- WWI_Silver_Transformations.ipynb
 |
 |-- 03-Gold-SQL/
 |   |-- README.md
