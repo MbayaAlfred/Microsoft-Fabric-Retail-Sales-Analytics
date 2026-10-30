@@ -225,7 +225,7 @@ Transformation activities include column standardization, data cleansing, busine
 
 [Explore Data Engineering Documentation](02-Data-Engineering/README.md)
 
-[View Silver Transformation Notebook](02-Data-Engineering/notebooks/WWI_Silver_Transformations.ipynb)
+[View Silver Transformation Notebook](02-Data-Engineering/WWI_Silver_Transformations.ipynb)
 
 ### Gold Layer — SQL Analytics
 
